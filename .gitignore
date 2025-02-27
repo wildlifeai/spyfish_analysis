@@ -130,3 +130,6 @@ dmypy.json
 
 # Macbook files 
 *.DS_Store  
+
+# Work in progress files
+wip/
